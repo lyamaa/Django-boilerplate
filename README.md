@@ -1,1 +1,1 @@
-# AskUs
+# AskUs Django Based Web Application
