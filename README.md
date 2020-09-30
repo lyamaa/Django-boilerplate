@@ -1,1 +1,1 @@
-# AskUs Django Based Web Application
+#  Django Boilerplate
